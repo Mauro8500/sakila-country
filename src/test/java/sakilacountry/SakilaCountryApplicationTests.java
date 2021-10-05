@@ -1,4 +1,4 @@
-package bo.edu.ucb.ingsoft.sakilacountry;
+package sakilacountry;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
