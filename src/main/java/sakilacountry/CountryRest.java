@@ -1,4 +1,4 @@
-package bo.edu.ucb.ingsoft.sakilacountry;
+package sakilacountry;
 
 import java.util.Calendar;
 import java.util.List;
