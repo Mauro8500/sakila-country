@@ -1,4 +1,4 @@
-package bo.edu.ucb.ingsoft.sakilacountry;
+package sakilacountry;
 
 class CountryException extends RuntimeException {
     CountryException(Integer id) {
