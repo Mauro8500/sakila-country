@@ -1,4 +1,4 @@
-package bo.edu.ucb.ingsoft.sakilacountry;
+package sakilacountry;
 
 import org.springframework.data.repository.PagingAndSortingRepository;
 
